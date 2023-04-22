@@ -899,3 +899,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.22-11.43.40:385][802]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.22-11.43.40:385][802]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.04.22-11.43.40:385][802]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.22-11.54.15:693][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.04.22-11.54.15:763][962]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap12D229234AA6ABAB8165979C5B7EF312.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.04.22-11.54.15:838][962]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltData55AEBDC14CC85333EF13B0A0B25C0CF2.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.22-11.54.15:847][962]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.22-11.54.15:847][962]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.22-11.54.15:847][962]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
