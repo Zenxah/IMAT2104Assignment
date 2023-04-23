@@ -1692,3 +1692,440 @@ Script call stack:
 [2023.04.23-16.26.14:418][298]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-16.26.14:418][298]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.04.23-16.26.14:418][298]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.23-16.28.29:869][946]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape4)
+[2023.04.23-17.06.44:993][585]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-17.06.45:002][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-17.06.45:003][585]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 19:06:45)
+[2023.04.23-17.06.45:003][585]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-17.06.45:054][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050128s)
+[2023.04.23-17.06.45:056][585]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-17.06.45:057][585]LogPlayLevel: PIE: World Init took: (0.002853s)
+[2023.04.23-17.06.45:057][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.053394s)
+[2023.04.23-17.06.45:080][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2023.04.23-17.06.45:088][585]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.23-17.06.45:088][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-17.06.45:088][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-17.06.45:088][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-17.06.45:088][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-17.06.45:088][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-17.06.45:088][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-17.06.45:088][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-17.06.45:088][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-17.06.45:089][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-17.06.45:089][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-17.06.45:089][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-17.06.45:089][585]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-17.06.45:095][585]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-17.06.45:095][585]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-17.06.45:114][585]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-17.06.45:117][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-17.06.45:117][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-17.06.45:118][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-17.06.45:119][585]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-17.06.45:119][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-17.06.45:119][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-17.06.45:120][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-17.06.45:121][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-17.06.45:121][585]LogInit: FAudioDevice initialized.
+[2023.04.23-17.06.45:121][585]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-17.06.45:138][585]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-17.06.45:141][585]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-17.06.45:142][585]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-18.06.45
+[2023.04.23-17.06.45:143][585]LogWorld: Bringing up level for play took: 0.003991
+[2023.04.23-17.06.45:143][585]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.04.23-17.06.45:156][585]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-17.06.45:161][585]PIE: Server logged in
+[2023.04.23-17.06.45:162][585]PIE: Play in editor total start time 0.161 seconds.
+[2023.04.23-17.06.47:340][695]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-17.06.51:025][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.06.51:025][931]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-17.06.51:026][931]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-17.06.51:026][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.06.51:036][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-17.06.51:053][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-17.06.51:104][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-17.06.51:104][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.06.51:105][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-17.06.51:108][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-17.06.51:110][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.04.23-17.06.51:161][932]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.04.23-17.06.53:291][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.04.23-17.06.53:370][ 86]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMapE832AF3F4F0C5176D9236189E4451B6D.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.umap'
+[2023.04.23-17.06.53:427][ 86]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltData6260F75343A8D247D1B912A35D569A60.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.23-17.06.53:439][ 86]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-17.06.53:439][ 86]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.23-17.06.53:440][ 86]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.23-17.08.19:824][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.04.23-17.08.19:898][874]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap9BD8CB324766034E092B23881A137F3E.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.umap'
+[2023.04.23-17.08.19:951][874]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltDataF4A0FDF14A2A65859DB78583518DF56E.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.23-17.08.19:963][874]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-17.08.19:963][874]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.23-17.08.19:963][874]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.23-17.08.57:238][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.23-17.08.57:368][102]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap51D12671417438D639A1BD89276A608E.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.umap'
+[2023.04.23-17.08.57:436][102]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltData5149E676406B3375A841FDAE9D19293A.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.23-17.08.57:447][102]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-17.08.57:447][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.23-17.08.57:447][102]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.23-17.09.05:312][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.23-17.09.05:386][532]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap43F39CA54C06BA5C387D60804CF2FA92.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.umap'
+[2023.04.23-17.09.05:439][532]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltData3098B81143420E8D7AB956886D9CED1B.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.23-17.09.05:450][532]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-17.09.05:450][532]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.23-17.09.05:450][532]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.23-17.11.00:776][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.04.23-17.11.00:847][690]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap0940868346613550147887BDF8C0298A.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.umap'
+[2023.04.23-17.11.01:071][690]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltData316036AF4C7E4B3718092CB956F7D950.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.23-17.11.01:085][690]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-17.11.01:085][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.23-17.11.01:085][690]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.23-18.27.49:254][251]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.04.23-18.27.58:120][399]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-18.27.58:132][399]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-18.27.58:132][399]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 20:27:58)
+[2023.04.23-18.27.58:133][399]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.27.58:226][399]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092504s)
+[2023.04.23-18.27.58:231][399]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-18.27.58:232][399]LogPlayLevel: PIE: World Init took: (0.006068s)
+[2023.04.23-18.27.58:232][399]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.099133s)
+[2023.04.23-18.27.58:284][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.04.23-18.27.58:290][399]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.23-18.27.58:291][399]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-18.27.58:291][399]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-18.27.58:291][399]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-18.27.58:291][399]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-18.27.58:291][399]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-18.27.58:291][399]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-18.27.58:291][399]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-18.27.58:291][399]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-18.27.58:292][399]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-18.27.58:292][399]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-18.27.58:292][399]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-18.27.58:292][399]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-18.27.58:299][399]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-18.27.58:299][399]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-18.27.58:319][399]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-18.27.58:342][399]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-18.27.58:342][399]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-18.27.58:342][399]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-18.27.58:351][399]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-18.27.58:352][399]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-18.27.58:352][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-18.27.58:353][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-18.27.58:353][399]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-18.27.58:353][399]LogInit: FAudioDevice initialized.
+[2023.04.23-18.27.58:353][399]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-18.27.58:413][399]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-18.27.58:417][399]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.27.58:418][399]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-19.27.58
+[2023.04.23-18.27.58:419][399]LogWorld: Bringing up level for play took: 0.005082
+[2023.04.23-18.27.58:420][399]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2023.04.23-18.27.58:424][399]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.27.58:429][399]PIE: Server logged in
+[2023.04.23-18.27.58:430][399]PIE: Play in editor total start time 0.3 seconds.
+[2023.04.23-18.28.00:467][511]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-18.28.36:964][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.28.36:964][220]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.28.36:964][220]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.28.36:965][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.28.36:973][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-18.28.36:997][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.28.37:045][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.28.37:045][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.28.37:047][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.28.37:054][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.23-18.28.37:159][221]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.04.23-18.28.46:306][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.28.47:570][906]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2023.04.23-18.28.48:826][906]LogBlueprintEditor: Perf: 0.8 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2023.04.23-18.28.48:826][906]LogBlueprintEditor: Perf: 0.4 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2023.04.23-18.28.48:826][906]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2023.04.23-18.28.51:222][906]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0307 seconds. Added 126 classes and 0 folders.
+[2023.04.23-18.28.55:770][906]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.28.56:788][907]LogSlate: Took 0.039839 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.23-18.29.04:981][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.04:982][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.04:983][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.04:985][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.05:018][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.05:019][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.05:021][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.05:022][606]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:377][749]BlueprintLog: New page: Compile TwinblastPlayerCharacter
+[2023.04.23-18.29.06:548][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:589][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:590][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:592][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:894][749]LogUObjectHash: Compacting FUObjectHashTables data took  19.49ms
+[2023.04.23-18.29.06:942][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:943][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:945][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:946][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.06:947][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.07:062][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.07:063][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.07:064][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.07:066][749]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.07:801][818]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-18.29.07:805][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-18.29.07:805][818]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 20:29:07)
+[2023.04.23-18.29.07:805][818]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.29.07:903][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097153s)
+[2023.04.23-18.29.07:904][818]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-18.29.07:904][818]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2023.04.23-18.29.07:904][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.098567s)
+[2023.04.23-18.29.08:012][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.04.23-18.29.08:013][818]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.23-18.29.08:013][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-18.29.08:013][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-18.29.08:013][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-18.29.08:013][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-18.29.08:013][818]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-18.29.08:013][818]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-18.29.08:013][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-18.29.08:013][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-18.29.08:014][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-18.29.08:014][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-18.29.08:014][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-18.29.08:014][818]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-18.29.08:020][818]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-18.29.08:020][818]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-18.29.08:040][818]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-18.29.08:093][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-18.29.08:093][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-18.29.08:093][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-18.29.08:094][818]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-18.29.08:094][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-18.29.08:094][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-18.29.08:095][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-18.29.08:095][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-18.29.08:095][818]LogInit: FAudioDevice initialized.
+[2023.04.23-18.29.08:095][818]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-18.29.08:212][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.29.08:247][818]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-18.29.08:249][818]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.08:250][818]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-19.29.08
+[2023.04.23-18.29.08:250][818]LogWorld: Bringing up level for play took: 0.002490
+[2023.04.23-18.29.08:250][818]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.04.23-18.29.08:253][818]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.08:259][818]PIE: Server logged in
+[2023.04.23-18.29.08:261][818]PIE: Play in editor total start time 0.456 seconds.
+[2023.04.23-18.29.08:379][819]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2023.04.23-18.29.08:382][819]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.074991 > MaxSimulationTimeStep (0.050) for 'Enemy_5', movement 'Walking'
+[2023.04.23-18.29.10:337][912]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-18.29.21:964][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.29.21:964][586]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.29.21:964][586]LogSlate: Window 'IMAT2104Assignment Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.04.23-18.29.21:991][586]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.29.21:991][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.29.22:004][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-18.29.22:020][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.29.22:042][586]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-18.29.22:042][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.29.22:043][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.29.22:049][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.23-18.29.22:065][587]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.04.23-18.29.25:810][933]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.29.25:810][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.29.29:094][998]LogSlate: Window 'Message' being destroyed
+[2023.04.23-18.29.29:107][998]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/ThirdPersonBP_migrated/Blueprints/grass_m.grass_m
+(Selecting 'No' will cause all changes to be lost!)
+[2023.04.23-18.29.30:647][998]LogMaterial: Display: Missing cached shadermap for grass_m in PCD3D_SM5, Default, SM5 (DDC key hash: 134A5D3890C916C5A6D4B59213C86C00BB489551), compiling. 
+[2023.04.23-18.29.30:802][998]LogMaterial: Display: Missing cached shadermap for grass_m in PCD3D_SM5, Default, SM5 (DDC key hash: 4E06C51DBA4EED68F4A0A8EB3514D0C6A8002549), compiling. 
+[2023.04.23-18.29.30:816][998]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_28 in PCD3D_SM5, Default, SM5 (DDC key hash: 62141AAD4782A65936A564F42BD8552F968D7DBA), compiling. 
+[2023.04.23-18.29.31:041][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.04.23-18.29.31:181][998]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-18.29.31:181][998]LogShaderCompilers: Display: Total job queries 1816, among them cache hits 1432 (78.85%)
+[2023.04.23-18.29.31:181][998]LogShaderCompilers: Display: Tracking 344 distinct input hashes that result in 199 distinct outputs (57.85%)
+[2023.04.23-18.29.31:181][998]LogShaderCompilers: Display: RAM used: 1.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.04.23-18.29.31:181][998]LogShaderCompilers: Display: ================================================
+[2023.04.23-18.29.31:205][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.23-18.29.31:674][998]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.29.31:674][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.29.43:023][738]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape4)
+[2023.04.23-18.29.59:551][910]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-18.29.59:557][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-18.29.59:557][910]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 20:29:59)
+[2023.04.23-18.29.59:557][910]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.29.59:686][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129276s)
+[2023.04.23-18.29.59:688][910]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-18.29.59:688][910]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2023.04.23-18.29.59:688][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.131057s)
+[2023.04.23-18.29.59:811][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.04.23-18.29.59:821][910]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.23-18.29.59:821][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-18.29.59:821][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-18.29.59:821][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-18.29.59:821][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-18.29.59:821][910]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-18.29.59:821][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-18.29.59:821][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-18.29.59:821][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-18.29.59:822][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-18.29.59:822][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-18.29.59:822][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-18.29.59:822][910]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-18.29.59:828][910]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-18.29.59:828][910]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-18.29.59:846][910]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-18.29.59:846][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-18.29.59:847][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-18.29.59:847][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-18.29.59:848][910]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-18.29.59:848][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-18.29.59:848][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-18.29.59:850][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-18.29.59:850][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-18.29.59:850][910]LogInit: FAudioDevice initialized.
+[2023.04.23-18.29.59:850][910]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-18.29.59:856][910]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-18.29.59:858][910]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.59:859][910]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-19.29.59
+[2023.04.23-18.29.59:859][910]LogWorld: Bringing up level for play took: 0.002626
+[2023.04.23-18.29.59:860][910]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.04.23-18.29.59:862][910]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.29.59:866][910]PIE: Server logged in
+[2023.04.23-18.29.59:867][910]PIE: Play in editor total start time 0.312 seconds.
+[2023.04.23-18.30.01:897][ 16]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-18.30.12:504][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.30.12:504][735]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.30.12:505][735]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.30.12:505][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.30.12:521][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-18.30.12:534][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.30.12:585][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.30.12:585][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.30.12:586][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.30.12:593][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.04.23-18.30.12:692][736]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.04.23-18.30.23:843][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.04.23-18.30.23:922][482]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMapA65EC187422BE38580989582C74204F4.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.umap'
+[2023.04.23-18.30.23:979][482]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltData574040E043D9024A10C4939D6A3D4B44.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.23-18.30.23:994][482]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-18.30.23:994][482]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.23-18.30.23:994][482]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
