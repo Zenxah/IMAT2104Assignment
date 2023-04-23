@@ -2129,3 +2129,1065 @@ Script call stack:
 [2023.04.23-18.30.23:994][482]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.23-18.30.23:994][482]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2023.04.23-18.30.23:994][482]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.23-18.40.24:176][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.04.23-18.40.24:195][624]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap' took 0.043
+[2023.04.23-18.40.24:196][624]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter] ([2] browsable assets)...
+[2023.04.23-18.40.24:199][624]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.40.24:227][624]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter_C]
+[2023.04.23-18.40.24:246][624]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter]
+[2023.04.23-18.40.24:246][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter]
+[2023.04.23-18.40.24:438][624]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/TwinblastPlayerCharacter_Auto22C0FC1F64944D9D7D31C0098B907B3C8.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/Autosaves/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter_Auto2.uasset'
+[2023.04.23-18.40.24:439][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP_migrated/Blueprints/grass_m] ([1] browsable assets)...
+[2023.04.23-18.40.24:456][624]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP_migrated/Blueprints/grass_m.grass_m]
+[2023.04.23-18.40.24:456][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP_migrated/Blueprints/grass_m]
+[2023.04.23-18.40.24:462][624]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/grass_m_Auto2A8CF0C1343C77BCBADD87B9C9D404F57.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/Autosaves/Game/ThirdPersonBP_migrated/Blueprints/grass_m_Auto2.uasset'
+[2023.04.23-18.40.24:462][624]LogFileHelpers: Auto-saving content packages took 0.267
+[2023.04.23-18.42.17:148][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-18.42.17:155][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-18.42.17:155][ 12]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 20:42:17)
+[2023.04.23-18.42.17:155][ 12]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.42.17:182][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027191s)
+[2023.04.23-18.42.17:184][ 12]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-18.42.17:184][ 12]LogPlayLevel: PIE: World Init took: (0.002180s)
+[2023.04.23-18.42.17:185][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029565s)
+[2023.04.23-18.42.17:208][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.23-18.42.17:210][ 12]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.23-18.42.17:210][ 12]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-18.42.17:210][ 12]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-18.42.17:210][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-18.42.17:210][ 12]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-18.42.17:210][ 12]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-18.42.17:210][ 12]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-18.42.17:211][ 12]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-18.42.17:211][ 12]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-18.42.17:211][ 12]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-18.42.17:211][ 12]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-18.42.17:211][ 12]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-18.42.17:211][ 12]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-18.42.17:217][ 12]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-18.42.17:217][ 12]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-18.42.17:234][ 12]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-18.42.17:235][ 12]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-18.42.17:235][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-18.42.17:235][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-18.42.17:235][ 12]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-18.42.17:235][ 12]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-18.42.17:235][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-18.42.17:237][ 12]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-18.42.17:237][ 12]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-18.42.17:237][ 12]LogInit: FAudioDevice initialized.
+[2023.04.23-18.42.17:237][ 12]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-18.42.17:245][ 12]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-18.42.17:247][ 12]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.42.17:248][ 12]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-19.42.17
+[2023.04.23-18.42.17:248][ 12]LogWorld: Bringing up level for play took: 0.002412
+[2023.04.23-18.42.17:248][ 12]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.04.23-18.42.17:250][ 12]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.42.17:254][ 12]PIE: Server logged in
+[2023.04.23-18.42.17:254][ 12]PIE: Play in editor total start time 0.1 seconds.
+[2023.04.23-18.42.18:434][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.42.18:434][ 72]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.42.18:435][ 72]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.42.18:435][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.42.18:461][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-18.42.18:474][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.42.18:545][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-18.42.18:545][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.42.18:546][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.42.18:548][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.42.18:552][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.23-18.42.18:600][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.04.23-18.42.25:904][341]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-18.42.25:909][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-18.42.25:909][341]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 20:42:25)
+[2023.04.23-18.42.25:909][341]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.42.25:933][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023937s)
+[2023.04.23-18.42.25:934][341]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-18.42.25:935][341]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2023.04.23-18.42.25:935][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025347s)
+[2023.04.23-18.42.25:955][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.04.23-18.42.26:032][341]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.23-18.42.26:032][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-18.42.26:032][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-18.42.26:032][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-18.42.26:032][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-18.42.26:032][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-18.42.26:032][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-18.42.26:032][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-18.42.26:032][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-18.42.26:033][341]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-18.42.26:033][341]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-18.42.26:033][341]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-18.42.26:033][341]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-18.42.26:038][341]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-18.42.26:038][341]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-18.42.26:055][341]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-18.42.26:056][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-18.42.26:056][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-18.42.26:056][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-18.42.26:056][341]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-18.42.26:056][341]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-18.42.26:056][341]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-18.42.26:058][341]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-18.42.26:058][341]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-18.42.26:058][341]LogInit: FAudioDevice initialized.
+[2023.04.23-18.42.26:058][341]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-18.42.26:070][341]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-18.42.26:072][341]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.42.26:073][341]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-19.42.26
+[2023.04.23-18.42.26:073][341]LogWorld: Bringing up level for play took: 0.002556
+[2023.04.23-18.42.26:074][341]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.04.23-18.42.26:076][341]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.42.26:079][341]PIE: Server logged in
+[2023.04.23-18.42.26:080][341]PIE: Play in editor total start time 0.172 seconds.
+[2023.04.23-18.42.28:253][455]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-18.42.32:095][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.42.32:095][716]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.42.32:095][716]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.42.32:095][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.42.32:107][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-18.42.32:119][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.42.32:135][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.42.32:136][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.42.32:137][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.42.32:142][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.23-18.42.32:284][717]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.04.23-18.46.33:037][645]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-18.46.33:041][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-18.46.33:041][645]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 20:46:33)
+[2023.04.23-18.46.33:041][645]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.46.33:067][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024786s)
+[2023.04.23-18.46.33:067][645]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-18.46.33:067][645]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2023.04.23-18.46.33:067][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026223s)
+[2023.04.23-18.46.33:091][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.04.23-18.46.33:178][645]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.23-18.46.33:178][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-18.46.33:178][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-18.46.33:178][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-18.46.33:178][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-18.46.33:178][645]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-18.46.33:179][645]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-18.46.33:179][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-18.46.33:179][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-18.46.33:179][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-18.46.33:179][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-18.46.33:179][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-18.46.33:179][645]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-18.46.33:185][645]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-18.46.33:185][645]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-18.46.33:203][645]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-18.46.33:204][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-18.46.33:204][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-18.46.33:204][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-18.46.33:204][645]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-18.46.33:204][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-18.46.33:205][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-18.46.33:206][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-18.46.33:206][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-18.46.33:206][645]LogInit: FAudioDevice initialized.
+[2023.04.23-18.46.33:206][645]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-18.46.33:214][645]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-18.46.33:216][645]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.46.33:217][645]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-19.46.33
+[2023.04.23-18.46.33:218][645]LogWorld: Bringing up level for play took: 0.002783
+[2023.04.23-18.46.33:218][645]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.04.23-18.46.33:220][645]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.46.33:224][645]PIE: Server logged in
+[2023.04.23-18.46.33:225][645]PIE: Play in editor total start time 0.184 seconds.
+[2023.04.23-18.46.35:384][779]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-18.46.58:064][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.46.58:064][265]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.46.58:065][265]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.46.58:065][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.46.58:078][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-18.46.58:090][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.46.58:108][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.46.58:109][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.46.58:111][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.46.58:118][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.04.23-18.46.58:160][266]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.04.23-18.47.05:367][416]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-18.47.05:371][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-18.47.05:372][416]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 20:47:05)
+[2023.04.23-18.47.05:393][416]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.47.05:417][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023419s)
+[2023.04.23-18.47.05:418][416]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-18.47.05:418][416]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2023.04.23-18.47.05:418][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024983s)
+[2023.04.23-18.47.05:439][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.04.23-18.47.05:440][416]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.04.23-18.47.05:440][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-18.47.05:440][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-18.47.05:440][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-18.47.05:440][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-18.47.05:440][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-18.47.05:440][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-18.47.05:440][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-18.47.05:440][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-18.47.05:440][416]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-18.47.05:440][416]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-18.47.05:440][416]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-18.47.05:440][416]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-18.47.05:446][416]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-18.47.05:446][416]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-18.47.05:464][416]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-18.47.05:464][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-18.47.05:464][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-18.47.05:464][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-18.47.05:465][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-18.47.05:465][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-18.47.05:465][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-18.47.05:466][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-18.47.05:466][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-18.47.05:466][416]LogInit: FAudioDevice initialized.
+[2023.04.23-18.47.05:466][416]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-18.47.05:473][416]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-18.47.05:475][416]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.47.05:476][416]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-19.47.05
+[2023.04.23-18.47.05:476][416]LogWorld: Bringing up level for play took: 0.002271
+[2023.04.23-18.47.05:476][416]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.04.23-18.47.05:478][416]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-18.47.05:482][416]PIE: Server logged in
+[2023.04.23-18.47.05:483][416]PIE: Play in editor total start time 0.113 seconds.
+[2023.04.23-18.47.07:716][534]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-18.47.12:955][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.47.12:955][926]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-18.47.12:955][926]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-18.47.12:955][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.47.12:961][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-18.47.12:973][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-18.47.12:988][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-18.47.12:988][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.47.12:990][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-18.47.12:995][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.04.23-18.47.13:070][927]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.04.23-18.59.11:863][309]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2023.04.23-18.59.12:414][309]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.00.10:242][  0]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP_migrated/Blueprints/healthpickupM.healthpickupM
+[2023.04.23-19.00.10:244][  0]LogMaterial: Display: Missing cached shadermap for healthpickupM in PCD3D_SM5, Default, SM5 (DDC key hash: 886636A124E2A72C84C1333FCFE925BAA3D0C7C2), compiling. 
+[2023.04.23-19.00.10:253][  0]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.04.23-19.00.10:388][  0]LogMaterial: Display: Missing cached shadermap for healthpickupM in PCD3D_SM5, Default, SM5 (DDC key hash: EED25D29BE710609F3944FA964925F5854450556), compiling. 
+[2023.04.23-19.00.10:390][  0]LogMaterial: Display: Missing cached shadermap for healthpickupM in PCD3D_SM5, Default, SM5 (DDC key hash: B91871614E9075A1CB2F982FBA438E630A4E3963), compiling. 
+[2023.04.23-19.00.10:392][  0]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A3814FE2FD5C5E4A0AFA79E61B9C6FEAAA41D88), compiling. 
+[2023.04.23-19.00.10:427][  0]MaterialEditorStats: Texture samplers: 0/16
+[2023.04.23-19.00.10:489][  0]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.23-19.00.10:490][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2023.04.23-19.00.10:490][  0]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2023.04.23-19.00.10:490][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2023.04.23-19.00.10:490][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-19.00.10:490][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.04.23-19.00.10:791][  9]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.04.23-19.00.12:586][115]LogSlate: Window 'healthpickupM' being destroyed
+[2023.04.23-19.00.12:633][115]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.00.12:633][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.00.12:787][125]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2023.04.23-19.00.12:787][125]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-19.00.12:792][125]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.23-19.00.12:792][125]LogShaderCompilers: Display: Total job queries 1863, among them cache hits 1457 (78.21%)
+[2023.04.23-19.00.12:792][125]LogShaderCompilers: Display: Tracking 346 distinct input hashes that result in 200 distinct outputs (57.80%)
+[2023.04.23-19.00.12:792][125]LogShaderCompilers: Display: RAM used: 1.16 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.14%
+[2023.04.23-19.00.12:792][125]LogShaderCompilers: Display: ================================================
+[2023.04.23-19.00.13:541][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP_migrated/Blueprints/HealthItem.HealthItem
+[2023.04.23-19.00.14:522][184]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2023.04.23-19.00.14:522][184]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.04.23-19.00.15:275][239]LogSlate: Window 'HealthItem' being destroyed
+[2023.04.23-19.00.33:736][227]LogEditorTransaction: Undo Paste Component(s)
+[2023.04.23-19.00.58:647][ 61]BlueprintLog: New page: Compile HealthItem
+[2023.04.23-19.00.58:813][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.04.23-19.01.27:308][385]BlueprintLog: New page: Compile HealthItem
+[2023.04.23-19.01.27:388][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.04.23-19.01.37:708][401]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-19.01.37:713][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-19.01.37:713][401]PIE: New page: PIE session: ThirdPersonExampleMap (23 Apr 2023, 21:01:37)
+[2023.04.23-19.01.37:713][401]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-19.01.37:738][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024540s)
+[2023.04.23-19.01.37:738][401]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.04.23-19.01.37:739][401]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2023.04.23-19.01.37:739][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025977s)
+[2023.04.23-19.01.37:762][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.04.23-19.01.37:767][401]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.04.23-19.01.37:767][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-19.01.37:767][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-19.01.37:767][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-19.01.37:767][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-19.01.37:767][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-19.01.37:767][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-19.01.37:767][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-19.01.37:767][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-19.01.37:767][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-19.01.37:767][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-19.01.37:767][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-19.01.37:767][401]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-19.01.37:774][401]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.01.37:774][401]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.01.37:792][401]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-19.01.37:793][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-19.01.37:793][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-19.01.37:793][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-19.01.37:793][401]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-19.01.37:793][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-19.01.37:793][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-19.01.37:795][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-19.01.37:795][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-19.01.37:795][401]LogInit: FAudioDevice initialized.
+[2023.04.23-19.01.37:795][401]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2023.04.23-19.01.37:805][401]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.01.37:808][401]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.01.37:808][401]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.04.23-20.01.37
+[2023.04.23-19.01.37:809][401]LogWorld: Bringing up level for play took: 0.002718
+[2023.04.23-19.01.37:809][401]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.04.23-19.01.37:811][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.01.37:815][401]PIE: Server logged in
+[2023.04.23-19.01.37:816][401]PIE: Play in editor total start time 0.104 seconds.
+[2023.04.23-19.01.40:053][580]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-19.01.43:774][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.01.43:774][894]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.04.23-19.01.43:774][894]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.01.43:775][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.01.43:786][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-19.01.43:797][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.01.43:817][894]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.01.43:817][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.01.43:818][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.01.43:820][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.01.43:823][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.23-19.01.43:863][895]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.04.23-19.01.45:507][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.23-19.01.45:649][ 26]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMapF89CFD7A4DD06E3C8C95EFB589C6494A.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.umap'
+[2023.04.23-19.01.45:726][ 26]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/ThirdPersonExampleMap_BuiltData1196E8BD4B79B2FF7CF8ADA3F46608CD.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2023.04.23-19.01.45:739][ 26]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-19.01.45:739][ 26]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2023.04.23-19.01.45:739][ 26]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2023.04.23-19.02.35:758][107]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP_migrated/Blueprints/HUD.HUD
+[2023.04.23-19.02.43:890][846]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.02.43:890][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.02.43:897][846]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.02.43:897][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.03.02:041][827]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.03.02:041][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.05.16:956][535]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.04.23-19.05.16:978][535]LogContentBrowser: Creating deferred item: NewWorld
+[2023.04.23-19.05.19:670][790]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenu
+[2023.04.23-19.05.19:820][790]LogContentBrowser: End creating deferred item NewWorld
+[2023.04.23-19.05.22:550][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2023.04.23-19.05.23:779][994]LogSlate: Window 'Save Content' being destroyed
+[2023.04.23-19.05.23:810][994]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/grass_m194B57274F28EAE7A54031B29EC354F1.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Blueprints/grass_m.uasset'
+[2023.04.23-19.05.23:844][994]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/HealthItem0037AD7540F2C0CAE90A238FFBE61B02.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Blueprints/HealthItem.uasset'
+[2023.04.23-19.05.24:148][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.04.23-19.05.24:151][994]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/MainMenuEA3200F94508A990396184BE76B42301.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Blueprints/MainMenu.umap'
+[2023.04.23-19.05.24:152][994]LogFileHelpers: Saving map 'MainMenu' took 0.231
+[2023.04.23-19.05.24:188][994]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/TwinblastPlayerCharacter2AA59CB94C6B4724A7D913B0451BB27E.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.uasset'
+[2023.04.23-19.05.24:393][994]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu
+[2023.04.23-19.05.24:393][994]LightingResults: New page: Lighting Build
+[2023.04.23-19.05.24:393][994]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.04.23-19.05.25:065][994]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.05.25:066][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.05.25:066][994]MapCheck: New page: Map Check
+[2023.04.23-19.05.25:066][994]LightingResults: New page: Lighting Build
+[2023.04.23-19.05.25:236][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.05.27:101][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.04.23-19.05.28:081][994]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.04.23-19.05.28:082][994]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-19.05.28:082][994]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.23-19.05.28:114][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.04.23-19.05.28:124][994]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-19.05.28:124][994]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2023.04.23-19.05.28:124][994]LogFileHelpers: Loading map 'MainMenu' took 3.730
+[2023.04.23-19.05.28:236][994]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-19.05.28:236][994]LogContentValidation: Display: Validating Blueprint /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2023.04.23-19.05.28:236][994]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP_migrated/Blueprints/HealthItem.HealthItem
+[2023.04.23-19.05.28:236][994]LogContentValidation: Display: Validating Material /Game/ThirdPersonBP_migrated/Blueprints/grass_m.grass_m
+[2023.04.23-19.05.28:237][994]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu
+[2023.04.23-19.05.40:299][315]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.23-19.05.40:314][315]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.23-19.05.45:480][910]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MainMenuWB
+[2023.04.23-19.05.45:825][910]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.23-19.05.46:444][976]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP_migrated/Blueprints/MainMenuWB.MainMenuWB
+[2023.04.23-19.05.48:795][155]LogSlate: Window 'MainMenuWB' being destroyed
+[2023.04.23-19.05.54:029][720]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2023.04.23-19.06.19:901][187]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.23-19.06.35:449][532]BlueprintLog: New page: Compile MainMenu
+[2023.04.23-19.06.35:824][532]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.04.23-19.06.50:856][119]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UGameplayStatics::GetPlayerController' [The specified module could not be found.]
+[2023.04.23-19.07.45:157][584]BlueprintLog: New page: Compile MainMenu
+[2023.04.23-19.07.45:217][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.04.23-19.10.48:472][846]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.04.23-19.10.48:921][846]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.428 s
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: === Handled ensure: ===
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: 
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: Ensure condition failed: ScopedTransaction != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UMGEditor/Private/Extensions/DesignerExtension.cpp] [Line: 60]
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: 
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: Stack: 
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9902e1228 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9901dedd4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9901307bf UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff99010d2e6 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9ab993011 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9a6fd0a3f UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9a6fb3581 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9a702e360 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9a7017097 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9a7009b62 UE4Editor-Slate.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9d8fdc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9d8fc92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9d8fde465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9d8fc4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ffa3e99e858 USER32.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ffa3e99e299 USER32.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff9d8fdfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff7ba307621 UE4Editor.exe!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff7ba320fcc UE4Editor.exe!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff7ba3210ba UE4Editor.exe!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff7ba3240dd UE4Editor.exe!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff7ba335984 UE4Editor.exe!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ff7ba33853a UE4Editor.exe!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ffa3e027604 KERNEL32.DLL!UnknownFunction []
+[2023.04.23-19.10.48:921][846]LogOutputDevice: Error: [Callstack] 0x00007ffa3fee26a1 ntdll.dll!UnknownFunction []
+[2023.04.23-19.10.48:922][846]LogOutputDevice: Error: 
+[2023.04.23-19.10.49:037][846]LogStats:                SubmitErrorReport -  0.000 s
+[2023.04.23-19.11.17:984][846]LogStats:                    SendNewReport - 28.947 s
+[2023.04.23-19.11.17:984][846]LogStats:             FDebug::EnsureFailed - 29.511 s
+[2023.04.23-19.11.17:995][846]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.23-19.11.18:812][846]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.11.18:812][846]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.11.19:142][847]LogAudioMixer: Resetting audio stream to device id 
+[2023.04.23-19.11.19:149][847]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.11.19:149][847]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.11.41:922][683]BlueprintLog: New page: Compile MainMenuWB
+[2023.04.23-19.11.42:005][683]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.04.23-19.12.24:193][466]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/MainMenuWB6DDFD2524A5AEE00F04F3CB651980410.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Blueprints/MainMenuWB.uasset'
+[2023.04.23-19.12.24:284][466]AssetCheck: New page: Asset Save: MainMenuWB
+[2023.04.23-19.12.24:284][466]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP_migrated/Blueprints/MainMenuWB.MainMenuWB
+[2023.04.23-19.15.22:776][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.04.23-19.15.22:890][ 49]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/MainMenu_Auto319A83FF94C7F878FFDEACAA82F46B545.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/Autosaves/Game/ThirdPersonBP_migrated/Blueprints/MainMenu_Auto3.umap'
+[2023.04.23-19.15.22:892][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP_migrated/Blueprints/MainMenu' took 0.156
+[2023.04.23-19.15.22:892][ 49]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.156
+[2023.04.23-19.29.50:233][604]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2023.04.23-19.29.58:549][304]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2023.04.23-19.30.48:268][672]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.23-19.30.54:437][385]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.23-19.30.57:905][784]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.23-19.31.03:383][410]LogSlate: Window 'Color Picker' being destroyed
+[2023.04.23-19.31.57:699][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2023.04.23-19.31.57:700][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP_migrated/Blueprints/MainMenu' took 0.049
+[2023.04.23-19.31.57:701][140]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP_migrated/Blueprints/MainMenuWB] ([2] browsable assets)...
+[2023.04.23-19.31.57:701][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP_migrated/Blueprints/MainMenuWB]
+[2023.04.23-19.31.57:706][140]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/MainMenuWB_Auto4B35EB71E478EFDD45D4FA690758A0AC6.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/Autosaves/Game/ThirdPersonBP_migrated/Blueprints/MainMenuWB_Auto4.uasset'
+[2023.04.23-19.31.57:707][140]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.04.23-19.33.15:005][645]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.04.23-19.35.42:787][118]BlueprintLog: New page: Compile MainMenuWB
+[2023.04.23-19.35.42:836][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.04.23-19.36.02:166][641]BlueprintLog: New page: Compile MainMenuWB
+[2023.04.23-19.36.02:207][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.04.23-19.36.38:859][849]BlueprintLog: New page: Compile MainMenuWB
+[2023.04.23-19.36.38:897][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.04.23-19.37.27:398][153]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.37.31:293][573]LogContentBrowser: Attempting asset rename: ThirdPersonExampleMap -> Game
+[2023.04.23-19.37.31:436][573]LogMetaData: Removing '/Game/ThirdPersonBP_migrated/Maps/Game.Game_C' ref from Metadata '/Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.04.23-19.37.31:436][573]LogMetaData: Removing '/Game/ThirdPersonBP_migrated/Maps/Game.SKEL_Game_C' ref from Metadata '/Game/ThirdPersonBP_migrated/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2023.04.23-19.37.31:501][573]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/Game_BuiltDataD1B0140048773A77090EE18C7B41D60E.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/Game_BuiltData.uasset'
+[2023.04.23-19.37.31:545][573]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.37.31:594][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.04.23-19.37.31:699][573]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/Game6B5B199E4D174D12F2B7B0A653973A4D.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/Game.umap'
+[2023.04.23-19.37.31:829][573]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.37.31:870][573]LogFileHelpers: Saving map 'Game' took 0.368
+[2023.04.23-19.37.32:036][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.04.23-19.37.32:064][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.23-19.37.32:154][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.04.23-19.37.32:183][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.23-19.37.32:757][573]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-19.37.32:757][573]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/Game.Game
+[2023.04.23-19.37.32:757][573]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/Game_BuiltData.Game_BuiltData
+[2023.04.23-19.38.38:153][293]BlueprintLog: New page: Compile MainMenuWB
+[2023.04.23-19.38.38:235][293]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2023.04.23-19.38.39:721][458]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-19.38.39:727][458]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.23-19.38.39:727][458]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2023.04.23-19.38.39:793][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2023.04.23-19.38.39:812][458]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2023.04.23-19.38.39:812][458]PIE: New page: PIE session: MainMenu (23 Apr 2023, 21:38:39)
+[2023.04.23-19.38.39:812][458]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.38.39:840][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027196s)
+[2023.04.23-19.38.39:840][458]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.23-19.38.39:841][458]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2023.04.23-19.38.39:841][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu to /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu (0.028355s)
+[2023.04.23-19.38.39:876][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.04.23-19.38.39:971][458]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.04.23-19.38.39:971][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-19.38.39:971][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-19.38.39:971][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-19.38.39:971][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-19.38.39:971][458]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-19.38.39:971][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-19.38.39:971][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-19.38.39:971][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-19.38.39:972][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-19.38.39:972][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-19.38.39:972][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-19.38.39:972][458]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-19.38.39:977][458]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.38.39:977][458]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.38.39:995][458]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-19.38.39:995][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-19.38.39:995][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-19.38.39:995][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-19.38.40:046][458]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-19.38.40:046][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-19.38.40:046][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-19.38.40:048][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-19.38.40:048][458]LogInit: FAudioDevice initialized.
+[2023.04.23-19.38.40:048][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-19.38.40:048][458]LogAudio: Display: Audio Device (ID: 13) registered with world 'MainMenu'.
+[2023.04.23-19.38.40:056][458]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.38.40:056][458]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.23-20.38.40
+[2023.04.23-19.38.40:057][458]LogWorld: Bringing up level for play took: 0.000287
+[2023.04.23-19.38.40:057][458]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.04.23-19.38.40:059][458]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.38.40:062][458]PIE: Server logged in
+[2023.04.23-19.38.40:063][458]PIE: Play in editor total start time 0.337 seconds.
+[2023.04.23-19.38.42:184][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.38.42:184][702]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.38.42:184][702]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.38.42:184][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.38.42:196][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-19.38.42:202][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.38.42:235][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.38.42:235][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.38.42:236][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.38.42:265][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.04.23-19.38.42:293][703]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.04.23-19.39.04:622][704]BlueprintLog: New page: Compile MainMenu
+[2023.04.23-19.39.04:677][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.04.23-19.39.06:435][900]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-19.39.06:440][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-19.39.06:440][900]PIE: New page: PIE session: MainMenu (23 Apr 2023, 21:39:06)
+[2023.04.23-19.39.06:463][900]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.39.06:464][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000953s)
+[2023.04.23-19.39.06:465][900]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.23-19.39.06:465][900]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2023.04.23-19.39.06:465][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu to /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu (0.002049s)
+[2023.04.23-19.39.06:500][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.04.23-19.39.06:500][900]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.04.23-19.39.06:500][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-19.39.06:500][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-19.39.06:500][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-19.39.06:500][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-19.39.06:500][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-19.39.06:500][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-19.39.06:500][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-19.39.06:500][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-19.39.06:501][900]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-19.39.06:501][900]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-19.39.06:501][900]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-19.39.06:501][900]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-19.39.06:506][900]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.39.06:506][900]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.39.06:523][900]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-19.39.06:523][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-19.39.06:523][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-19.39.06:523][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-19.39.06:524][900]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-19.39.06:524][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-19.39.06:524][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-19.39.06:525][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-19.39.06:525][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-19.39.06:525][900]LogInit: FAudioDevice initialized.
+[2023.04.23-19.39.06:525][900]LogAudio: Display: Audio Device (ID: 14) registered with world 'MainMenu'.
+[2023.04.23-19.39.06:537][900]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.39.06:538][900]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.23-20.39.06
+[2023.04.23-19.39.06:538][900]LogWorld: Bringing up level for play took: 0.000254
+[2023.04.23-19.39.06:539][900]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.04.23-19.39.06:540][900]LogScript: Warning: Script Msg: Divide by zero detected: 9.555037 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.06:544][900]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.23-19.39.06:544][900]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.23-19.39.06:544][900]PIE: Server logged in
+[2023.04.23-19.39.06:545][900]PIE: Play in editor total start time 0.105 seconds.
+[2023.04.23-19.39.07:370][991]LogNet: Browse: /Game/ThirdPersonBP_migrated/Maps/Game
+[2023.04.23-19.39.07:380][991]LogLoad: LoadMap: /Game/ThirdPersonBP_migrated/Maps/Game
+[2023.04.23-19.39.07:380][991]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.39.07:394][991]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.39.07:395][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.07:482][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.39.07:486][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.04.23-19.39.07:508][991]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-19.39.07:530][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022543s)
+[2023.04.23-19.39.07:531][991]LogAIModule: Creating AISystem for world Game
+[2023.04.23-19.39.07:532][991]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2023.04.23-19.39.07:532][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/Game.Game to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game (0.024156s)
+[2023.04.23-19.39.07:532][991]LogAudio: Display: Audio Device (ID: 14) registered with world 'Game'.
+[2023.04.23-19.39.07:532][991]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.39.07:546][991]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.07:546][991]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.04.23-20.39.07
+[2023.04.23-19.39.07:546][991]LogWorld: Bringing up level for play took: 0.013573
+[2023.04.23-19.39.07:576][991]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.07:632][991]LogLoad: Took 0.249269 seconds to LoadMap(/Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game)
+[2023.04.23-19.39.08:853][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.39.08:853][ 43]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-19.39.08:853][ 43]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.39.08:854][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.08:869][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-19.39.08:875][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.08:910][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.39.08:911][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.39.08:912][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.39.08:919][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2023.04.23-19.39.08:937][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.04.23-19.39.11:914][390]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-19.39.11:919][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-19.39.11:919][390]PIE: New page: PIE session: MainMenu (23 Apr 2023, 21:39:11)
+[2023.04.23-19.39.11:943][390]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.39.11:944][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000966s)
+[2023.04.23-19.39.11:945][390]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.23-19.39.11:945][390]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2023.04.23-19.39.11:945][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu to /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu (0.001964s)
+[2023.04.23-19.39.11:981][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.04.23-19.39.11:982][390]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.04.23-19.39.11:982][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-19.39.11:982][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-19.39.11:982][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-19.39.11:982][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-19.39.11:982][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-19.39.11:982][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-19.39.11:982][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-19.39.11:982][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-19.39.11:983][390]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-19.39.11:983][390]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-19.39.11:983][390]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-19.39.11:983][390]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-19.39.11:988][390]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.39.11:988][390]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.39.12:005][390]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-19.39.12:005][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-19.39.12:005][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-19.39.12:005][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-19.39.12:006][390]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-19.39.12:006][390]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-19.39.12:006][390]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-19.39.12:007][390]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-19.39.12:007][390]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-19.39.12:007][390]LogInit: FAudioDevice initialized.
+[2023.04.23-19.39.12:007][390]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenu'.
+[2023.04.23-19.39.12:016][390]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.39.12:017][390]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.23-20.39.12
+[2023.04.23-19.39.12:017][390]LogWorld: Bringing up level for play took: 0.000252
+[2023.04.23-19.39.12:017][390]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.04.23-19.39.12:019][390]LogScript: Warning: Script Msg: Divide by zero detected: -15.200073 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.12:022][390]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.23-19.39.12:022][390]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.23-19.39.12:023][390]PIE: Server logged in
+[2023.04.23-19.39.12:023][390]PIE: Play in editor total start time 0.105 seconds.
+[2023.04.23-19.39.14:260][658]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-19.39.20:100][357]LogNet: Browse: /Game/ThirdPersonBP_migrated/Maps/Game
+[2023.04.23-19.39.20:100][357]LogLoad: LoadMap: /Game/ThirdPersonBP_migrated/Maps/Game
+[2023.04.23-19.39.20:100][357]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.39.20:101][357]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.39.20:101][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.20:164][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.39.20:168][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2023.04.23-19.39.20:171][357]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-19.39.20:193][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021659s)
+[2023.04.23-19.39.20:193][357]LogAIModule: Creating AISystem for world Game
+[2023.04.23-19.39.20:194][357]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2023.04.23-19.39.20:194][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/Game.Game to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game (0.022805s)
+[2023.04.23-19.39.20:194][357]LogAudio: Display: Audio Device (ID: 15) registered with world 'Game'.
+[2023.04.23-19.39.20:194][357]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.39.20:200][357]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.20:200][357]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.04.23-20.39.20
+[2023.04.23-19.39.20:201][357]LogWorld: Bringing up level for play took: 0.006339
+[2023.04.23-19.39.20:202][357]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.20:206][357]LogLoad: Took 0.105371 seconds to LoadMap(/Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game)
+[2023.04.23-19.39.22:446][472]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-19.39.22:446][472]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-19.39.25:344][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.39.25:344][624]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-19.39.25:344][624]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.39.25:345][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.25:358][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-19.39.25:364][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.25:398][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.39.25:398][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.39.25:399][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.39.25:406][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.04.23-19.39.25:426][625]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.04.23-19.39.43:337][679]BlueprintLog: New page: Compile MainMenuWB
+[2023.04.23-19.39.43:378][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.04.23-19.39.46:500][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-19.39.46:505][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-19.39.46:505][ 25]PIE: New page: PIE session: MainMenu (23 Apr 2023, 21:39:46)
+[2023.04.23-19.39.46:553][ 25]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.39.46:554][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001124s)
+[2023.04.23-19.39.46:555][ 25]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.23-19.39.46:556][ 25]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2023.04.23-19.39.46:556][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu to /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu (0.002426s)
+[2023.04.23-19.39.46:596][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2023.04.23-19.39.46:599][ 25]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.04.23-19.39.46:599][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-19.39.46:599][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-19.39.46:599][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-19.39.46:599][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-19.39.46:599][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-19.39.46:599][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-19.39.46:599][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-19.39.46:599][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-19.39.46:599][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-19.39.46:600][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-19.39.46:600][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-19.39.46:600][ 25]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-19.39.46:605][ 25]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.39.46:605][ 25]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.39.46:622][ 25]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-19.39.46:623][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-19.39.46:623][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-19.39.46:623][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-19.39.46:623][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-19.39.46:623][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-19.39.46:623][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-19.39.46:624][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-19.39.46:624][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-19.39.46:624][ 25]LogInit: FAudioDevice initialized.
+[2023.04.23-19.39.46:624][ 25]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenu'.
+[2023.04.23-19.39.46:635][ 25]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.39.46:636][ 25]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.23-20.39.46
+[2023.04.23-19.39.46:636][ 25]LogWorld: Bringing up level for play took: 0.000323
+[2023.04.23-19.39.46:636][ 25]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.04.23-19.39.46:638][ 25]LogScript: Warning: Script Msg: Divide by zero detected: 0.799988 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.46:641][ 25]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.23-19.39.46:641][ 25]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.23-19.39.46:642][ 25]PIE: Server logged in
+[2023.04.23-19.39.46:642][ 25]PIE: Play in editor total start time 0.138 seconds.
+[2023.04.23-19.39.47:465][123]LogNet: Browse: /Game/ThirdPersonBP_migrated/Maps/Game
+[2023.04.23-19.39.47:465][123]LogLoad: LoadMap: /Game/ThirdPersonBP_migrated/Maps/Game
+[2023.04.23-19.39.47:465][123]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.39.47:466][123]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.39.47:466][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.47:535][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.39.47:539][123]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.04.23-19.39.47:542][123]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-19.39.47:568][123]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025658s)
+[2023.04.23-19.39.47:569][123]LogAIModule: Creating AISystem for world Game
+[2023.04.23-19.39.47:569][123]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2023.04.23-19.39.47:569][123]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/Game.Game to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game (0.027374s)
+[2023.04.23-19.39.47:569][123]LogAudio: Display: Audio Device (ID: 16) registered with world 'Game'.
+[2023.04.23-19.39.47:569][123]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.39.47:575][123]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.47:576][123]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.04.23-20.39.47
+[2023.04.23-19.39.47:576][123]LogWorld: Bringing up level for play took: 0.006097
+[2023.04.23-19.39.47:578][123]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.39.47:581][123]LogLoad: Took 0.116395 seconds to LoadMap(/Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game)
+[2023.04.23-19.39.49:824][240]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-19.39.49:824][240]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-19.39.53:074][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.39.53:074][411]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-19.39.53:074][411]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.39.53:075][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.53:091][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-19.39.53:098][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.39.53:135][411]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.39.53:136][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.39.53:137][411]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.39.53:140][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.39.53:145][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.04.23-19.39.53:163][412]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.04.23-19.39.59:461][143]BlueprintLog: New page: Compile MainMenuWB
+[2023.04.23-19.39.59:501][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.04.23-19.40.01:816][401]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-19.40.01:821][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-19.40.01:822][401]PIE: New page: PIE session: MainMenu (23 Apr 2023, 21:40:01)
+[2023.04.23-19.40.01:842][401]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.40.01:843][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000959s)
+[2023.04.23-19.40.01:844][401]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.23-19.40.01:844][401]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2023.04.23-19.40.01:844][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu to /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu (0.002018s)
+[2023.04.23-19.40.01:881][401]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.04.23-19.40.01:885][401]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.04.23-19.40.01:885][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-19.40.01:885][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-19.40.01:885][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-19.40.01:885][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-19.40.01:885][401]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-19.40.01:885][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-19.40.01:885][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-19.40.01:885][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-19.40.01:885][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-19.40.01:885][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-19.40.01:885][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-19.40.01:885][401]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-19.40.01:891][401]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.40.01:891][401]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.40.01:908][401]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-19.40.01:908][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-19.40.01:908][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-19.40.01:908][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-19.40.01:909][401]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-19.40.01:909][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-19.40.01:909][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-19.40.01:910][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-19.40.01:910][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-19.40.01:910][401]LogInit: FAudioDevice initialized.
+[2023.04.23-19.40.01:910][401]LogAudio: Display: Audio Device (ID: 17) registered with world 'MainMenu'.
+[2023.04.23-19.40.01:972][401]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.40.01:972][401]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.23-20.40.01
+[2023.04.23-19.40.01:973][401]LogWorld: Bringing up level for play took: 0.000572
+[2023.04.23-19.40.01:973][401]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.04.23-19.40.01:975][401]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.40.01:978][401]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.23-19.40.01:978][401]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.23-19.40.01:979][401]PIE: Server logged in
+[2023.04.23-19.40.01:979][401]PIE: Play in editor total start time 0.158 seconds.
+[2023.04.23-19.40.04:105][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.40.04:106][649]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.40.04:106][649]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.40.04:106][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.04:113][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-19.40.04:119][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.04:150][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.40.04:150][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.40.04:151][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.40.04:154][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.40.04:158][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.04.23-19.40.04:190][650]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.04.23-19.40.05:111][755]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-19.40.05:116][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-19.40.05:116][755]PIE: New page: PIE session: MainMenu (23 Apr 2023, 21:40:05)
+[2023.04.23-19.40.05:153][755]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.40.05:155][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001154s)
+[2023.04.23-19.40.05:155][755]LogAIModule: Creating AISystem for world MainMenu
+[2023.04.23-19.40.05:156][755]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2023.04.23-19.40.05:156][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu to /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu (0.002294s)
+[2023.04.23-19.40.05:191][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.04.23-19.40.05:192][755]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.04.23-19.40.05:192][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-19.40.05:192][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-19.40.05:192][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-19.40.05:192][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-19.40.05:192][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-19.40.05:192][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-19.40.05:192][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-19.40.05:192][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-19.40.05:192][755]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-19.40.05:192][755]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-19.40.05:192][755]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-19.40.05:192][755]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-19.40.05:198][755]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-19.40.05:198][755]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-19.40.05:215][755]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-19.40.05:215][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-19.40.05:215][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-19.40.05:215][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-19.40.05:216][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-19.40.05:216][755]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-19.40.05:216][755]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-19.40.05:217][755]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-19.40.05:217][755]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-19.40.05:217][755]LogInit: FAudioDevice initialized.
+[2023.04.23-19.40.05:217][755]LogAudio: Display: Audio Device (ID: 18) registered with world 'MainMenu'.
+[2023.04.23-19.40.05:225][755]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.40.05:226][755]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2023.04.23-20.40.05
+[2023.04.23-19.40.05:226][755]LogWorld: Bringing up level for play took: 0.000280
+[2023.04.23-19.40.05:226][755]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.04.23-19.40.05:228][755]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.40.05:230][755]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.23-19.40.05:230][755]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.04.23-19.40.05:231][755]PIE: Server logged in
+[2023.04.23-19.40.05:231][755]PIE: Play in editor total start time 0.116 seconds.
+[2023.04.23-19.40.05:703][811]LogNet: Browse: /Game/ThirdPersonBP_migrated/Maps/Game
+[2023.04.23-19.40.05:704][811]LogLoad: LoadMap: /Game/ThirdPersonBP_migrated/Maps/Game
+[2023.04.23-19.40.05:704][811]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Blueprints/UEDPIE_0_MainMenu
+[2023.04.23-19.40.05:704][811]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.40.05:704][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.05:764][811]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.40.05:768][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.04.23-19.40.05:771][811]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-19.40.05:794][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022375s)
+[2023.04.23-19.40.05:795][811]LogAIModule: Creating AISystem for world Game
+[2023.04.23-19.40.05:795][811]LogPlayLevel: PIE: World Init took: (0.001267s)
+[2023.04.23-19.40.05:795][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/Game.Game to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game (0.023813s)
+[2023.04.23-19.40.05:795][811]LogAudio: Display: Audio Device (ID: 18) registered with world 'Game'.
+[2023.04.23-19.40.05:795][811]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-19.40.05:800][811]LogScript: Warning: Script Msg: Divide by zero detected: -90.000122 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.40.05:800][811]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.04.23-20.40.05
+[2023.04.23-19.40.05:801][811]LogWorld: Bringing up level for play took: 0.005069
+[2023.04.23-19.40.05:828][811]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.40.05:832][811]LogLoad: Took 0.127991 seconds to LoadMap(/Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game)
+[2023.04.23-19.40.08:066][925]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-19.40.08:066][925]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-19.40.08:445][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.40.08:445][943]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-19.40.08:445][943]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.40.08:445][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.08:458][943]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-19.40.08:464][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.08:496][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.40.08:496][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.40.08:497][943]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-19.40.08:499][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-19.40.08:504][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.04.23-19.40.08:525][944]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.04.23-19.40.09:997][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.04.23-19.40.10:003][111]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/MainMenu1020F40C41EEF41458D525A17FAB5457.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Blueprints/MainMenu.umap'
+[2023.04.23-19.40.10:028][111]AssetCheck: New page: Asset Save: MainMenu
+[2023.04.23-19.40.10:028][111]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Blueprints/MainMenu.MainMenu
+[2023.04.23-19.40.19:250][156]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.23-19.40.19:250][156]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.40.19:250][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.19:833][204]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.40.19:833][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.19:841][204]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.40.19:842][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.20:913][319]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.40.20:913][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.24:962][725]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.04.23-19.40.41:097][548]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.23-19.40.41:102][548]LogSlate: Window 'Project Settings' being destroyed
+[2023.04.23-19.40.42:206][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2023.04.23-19.40.43:429][664]LogSlate: Window 'Save Content' being destroyed
+[2023.04.23-19.40.43:467][664]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/MainMenuWB9430A7E043317B829B80108378F5F69A.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Blueprints/MainMenuWB.uasset'
+[2023.04.23-19.40.43:493][664]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP_migrated/Maps/Game.Game
+[2023.04.23-19.40.43:493][664]Cmd: MAP LOAD FILE="../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.23-19.40.43:493][664]LightingResults: New page: Lighting Build
+[2023.04.23-19.40.43:493][664]LoadErrors: New page: Loading map: Game.umap
+[2023.04.23-19.40.43:495][664]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-19.40.43:495][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-19.40.43:495][664]MapCheck: New page: Map Check
+[2023.04.23-19.40.43:495][664]LightingResults: New page: Lighting Build
+[2023.04.23-19.40.43:530][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-19.40.43:673][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2023.04.23-19.40.43:674][664]LogAudio: Display: Audio Device (ID: 1) registered with world 'Game'.
+[2023.04.23-19.40.43:676][664]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-19.40.43:684][664]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.23-19.40.43:684][664]LogAIModule: Creating AISystem for world Game
+[2023.04.23-19.40.43:703][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.23-19.40.43:712][664]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.23-19.40.43:712][664]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2023.04.23-19.40.43:712][664]LogFileHelpers: Loading map 'Game' took 0.220
+[2023.04.23-19.40.43:732][664]AssetCheck: New page: Asset Save: MainMenuWB
+[2023.04.23-19.40.43:732][664]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP_migrated/Blueprints/MainMenuWB.MainMenuWB
+[2023.04.23-19.40.44:589][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.23-19.40.44:726][730]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/GameB33DE8B040109D91C8413FB75DBF4CD1.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/Game.umap'
+[2023.04.23-19.40.44:748][730]LogFileHelpers: Saving map 'Game' took 0.176
+[2023.04.23-19.40.44:758][730]AssetCheck: New page: Asset Save: Game
+[2023.04.23-19.40.44:758][730]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/Game.Game
