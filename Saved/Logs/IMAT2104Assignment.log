@@ -6061,3 +6061,209 @@ Script call stack:
 [2023.04.23-22.27.45:861][326]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.04.23-22.27.45:862][326]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
 [2023.04.23-22.27.45:862][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-22.31.35:130][ 66]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2023.04.23-22.31.35:459][ 66]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.43:111][955]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.43:112][955]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.43:113][955]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.43:114][955]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.43:115][955]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.43:116][955]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.43:117][955]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.43:118][955]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:249][199]BlueprintLog: New page: Compile TwinblastPlayerCharacter
+[2023.04.23-22.31.45:264][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:266][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:266][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:267][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:369][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.04.23-22.31.45:388][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:389][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:390][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:391][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:392][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:407][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:408][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:409][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.45:410][199]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.47:192][371]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-22.31.47:192][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-22.31.48:605][496]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.23-22.31.48:611][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.23-22.31.48:611][496]PIE: New page: PIE session: Game (24 Apr 2023, 00:31:48)
+[2023.04.23-22.31.48:642][496]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-22.31.48:664][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021964s)
+[2023.04.23-22.31.48:664][496]LogAIModule: Creating AISystem for world Game
+[2023.04.23-22.31.48:665][496]LogPlayLevel: PIE: World Init took: (0.000987s)
+[2023.04.23-22.31.48:665][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP_migrated/Maps/Game.Game to /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game (0.023115s)
+[2023.04.23-22.31.48:775][496]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.04.23-22.31.48:783][496]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.04.23-22.31.48:783][496]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.23-22.31.48:783][496]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.23-22.31.48:783][496]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.23-22.31.48:783][496]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.23-22.31.48:783][496]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.23-22.31.48:783][496]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.23-22.31.48:783][496]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.23-22.31.48:783][496]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.23-22.31.48:783][496]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.23-22.31.48:783][496]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.23-22.31.48:783][496]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.23-22.31.48:783][496]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.23-22.31.48:789][496]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.23-22.31.48:789][496]LogAudioMixer: Display: 1: FrontRight
+[2023.04.23-22.31.48:807][496]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2023.04.23-22.31.48:807][496]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.23-22.31.48:807][496]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.23-22.31.48:807][496]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.23-22.31.48:808][496]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.23-22.31.48:808][496]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.23-22.31.48:808][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.23-22.31.48:809][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.23-22.31.48:809][496]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.23-22.31.48:809][496]LogInit: FAudioDevice initialized.
+[2023.04.23-22.31.48:809][496]LogAudio: Display: Audio Device (ID: 18) registered with world 'Game'.
+[2023.04.23-22.31.48:818][496]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.23-22.31.48:820][496]LogScript: Warning: Script Msg: Divide by zero detected: -160.000046 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.48:821][496]LogScript: Warning: Script Msg: Divide by zero detected: -160.000046 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.48:822][496]LogScript: Warning: Script Msg: Divide by zero detected: -160.000046 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.48:822][496]LogScript: Warning: Script Msg: Divide by zero detected: -160.000046 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.48:823][496]LogWorld: Bringing World /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game.Game up for play (max tick rate 0) at 2023.04.23-23.31.48
+[2023.04.23-22.31.48:823][496]LogWorld: Bringing up level for play took: 0.004416
+[2023.04.23-22.31.48:823][496]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2023.04.23-22.31.48:825][496]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Twinblast_AnimBlueprint.Twinblast_AnimBlueprint_C:ExecuteUbergraph_Twinblast_AnimBlueprint
+
+[2023.04.23-22.31.48:829][496]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.04.23-22.31.48:829][496]PIE: Server logged in
+[2023.04.23-22.31.48:830][496]PIE: Play in editor total start time 0.22 seconds.
+[2023.04.23-22.31.50:956][680]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-22.31.50:956][680]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-22.31.50:956][680]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-22.31.50:956][680]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.23-22.31.57:642][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-22.31.57:643][425]LogWorld: BeginTearingDown for /Game/ThirdPersonBP_migrated/Maps/UEDPIE_0_Game
+[2023.04.23-22.31.57:643][425]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2023.04.23-22.31.57:643][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-22.31.57:651][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.23-22.31.57:686][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.23-22.31.57:702][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.23-22.31.57:702][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-22.31.57:703][425]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.23-22.31.57:706][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.23-22.31.57:709][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.04.23-22.31.57:782][426]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.04.23-22.31.58:340][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.23-22.31.58:458][479]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/Game7CDEDF91409B12D4D0DB5BB70F91B158.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/Game.umap'
+[2023.04.23-22.32.04:647][479]LogSavePackage: Moving '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Saved/Game_BuiltData4375E6D841D623E69223F98D1E96E235.tmp' to '../../../../../../Users/zefan/OneDrive/Documents/GitHub/IMAT2104AssignmentGit/IMAT2104Assignment/Content/ThirdPersonBP_migrated/Maps/Game_BuiltData.uasset'
+[2023.04.23-22.32.05:807][479]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.23-22.32.05:807][479]LogContentValidation: Display: Validating World /Game/ThirdPersonBP_migrated/Maps/Game.Game
+[2023.04.23-22.32.05:807][479]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP_migrated/Maps/Game_BuiltData.Game_BuiltData
+[2023.04.23-22.32.28:145][723]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP_migrated/Maps/Game.
+[2023.04.23-22.32.28:146][723]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP_migrated/Maps/Game.
