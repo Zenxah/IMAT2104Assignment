@@ -1,0 +1,688 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "3C38407CDC69B96A9C50A4DA3B221DED3C77CB47",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A2C097021E9B39610D55033ED6D2A4F270CD9EC6",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "693F5D8441932DCA3C010659E10D80AA4CFED6FC",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "C4359193E47C063A73C0B6249DA498374AA7DCFA",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D7D8117754FBCB3E6EAF4484CB55FBB0B7F49DB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DE5B3C3078204FBD8C2559DA141189D5E37777E",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B48EFA7785D362B0DE4CE89C337822BE851F69E",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "70184CFFFB116A6DED3282DDC17BBBB75B712D41",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3E88D05642439823638181EBE6EAD4401D3AFD46",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "2266C9E402E8BFB54E7D599DF2BE9C8C130D003F",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "11528503F2FADD1013D8803561433D655227459B",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "17AE3D86A09501D585721FA2DEE9909ECFE45EF3",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "31092181B2311DF8BFEFC02342BF71F96DDB0AC4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "390CDBF1087A3BD7F6C4AC756A31D2EFF50EB629",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EFA0ABFC95AAB7148BE65BAC8E4D403FA1C0640F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EA0F6AC7299BB7FEB5AA62C8CF6E1B66AF8EC6B6",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A714AEA3AB59E5E1063F5B045D9645674EC299E9",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4131408FCDC8DBD3F5D0F64AD1F0D9AC3ED13F71",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EDD9ADA24C2458F03EE9B1332FD26BB86BBD80AA",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB6049078966B7E0BE2307A7474CF8D1CB2FB85",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "DD30E89915AE2462924A4213E7BCDD2694D8C9AA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "172D354B2E688E8694B4B56AA1A24E7CE17FFAB6",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F50CB4809F30B28444E9A8162646CD4396B7E073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE9EFACC4C3FB18F9DF805F9146228150B7FFD2",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "A3425B7B6BE14F897DA870ADD0BA4C022D47C073",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "F5414245F4D31163D035B55938C5737CCEBB355E",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "756823B80E02934AEFFBFFB5B3C64ECDEFEC5CF6",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "D1CDE5662FED22405E7A4E13F4C26CCBBD37DEB7",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB5CAC2EF8223107EA2B21906291F541215A3CF",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/ThirdPersonBP_migrated/Blueprints/healthpickupM"
+			]
+		},
+		{
+			"ShaderMapHash": "7AC6A1390AF3DBB7E84E8B4A480B7C7EA824BE87",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "14DAEDE5D017A5B05D9C06BE65F40ACF062368C6",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D004EBC46FA930DC5EEB476F7B9347C43CA9F1B",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "78B65C37765E95A0B8DBA0C072BEE3403C871CDA",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FC8D4E9DEB8E73CD3762EB1B60D28353B51F2E41",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "12C1F1A235C8BA81EC4F2D0CFB449FF28BCCEE3F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B77059808207F1E9A50633FEE88CFD5F758DA9A",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24C433FACF74298D2606D7B0639A88B8B135B9A2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "8D5C9971654E22D92212E61C55D92EEA6D6F673A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5532C31F2D3986334CDEFCBF4E1201FB6D4D6B00",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C380564A6414222F6A7E5F57D0F14982D5FD4F14",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "AF630D10EC29E174CC6981011633B94F1A86668B",
+			"Assets": [
+				"/Game/ThirdPersonBP_migrated/Blueprints/grass_m"
+			]
+		},
+		{
+			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
+			"Assets": [
+				"/Game/ThirdPerson/Meshes/RampMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "719AB780A1912A1C4C1A7B1D5A158485B14842EC",
+			"Assets": [
+				"/Game/Mannequin/Character/Materials/M_Male_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "B47CABED7A4537AAD9D04F5ACC70AD3D4BE7AE99",
+			"Assets": [
+				"/Game/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1C1FD67BED489466B7760A6790B827744DD01E63",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/M_Nature_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "F6B26435E5A2988DB670393266EA9F81D543FE34",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/M_Vegetations"
+			]
+		},
+		{
+			"ShaderMapHash": "E3B13B4673C501BA950EF7DECB336E1C3024DC91",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/M_Nature"
+			]
+		},
+		{
+			"ShaderMapHash": "05ED88B343F073F8995DC88D7378290564B7BF25",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Acc"
+			]
+		},
+		{
+			"ShaderMapHash": "421F853E0A630195B514915BFEB6695EB304A0A5",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Acc"
+			]
+		},
+		{
+			"ShaderMapHash": "B6E62E05477CCD44532709961124F1E6A6D32D93",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Acc"
+			]
+		},
+		{
+			"ShaderMapHash": "66BDA6F863E403CC0B0C6569546589954FD659F7",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "3EBE2BCBCF3A6969901BABFD6E97C7452F371FAB",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "ACDACC61240C9460CC8B4C376DD78C09C8912CB6",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "5BE1F35285F7A1F5A4C57F4A8754FBDC64B630C4",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Boots"
+			]
+		},
+		{
+			"ShaderMapHash": "BD3D997EDF41C306C1C12792C9B51D8A2406EEF2",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Boots"
+			]
+		},
+		{
+			"ShaderMapHash": "8F898E035466F2FF2843FF206B2ABE81F6C36E89",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Grenade"
+			]
+		},
+		{
+			"ShaderMapHash": "85103796EB6335CC125927E7C3C83568E4889A5C",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Grenade"
+			]
+		},
+		{
+			"ShaderMapHash": "4DD03A73629638AC1A7E5202C1EECA5BAF3B4344",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Grenade"
+			]
+		},
+		{
+			"ShaderMapHash": "C45EC2385AD5298A1994040172F01EE3DE3E32C3",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Lens"
+			]
+		},
+		{
+			"ShaderMapHash": "8647411680B346BF51B78845CA953F54DAF719B3",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Pants"
+			]
+		},
+		{
+			"ShaderMapHash": "56915C1C6940765E0771F7083C2054F1DCC4D898",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Pants"
+			]
+		},
+		{
+			"ShaderMapHash": "267CB5481A285EB9E43A4FE0437B8CD712BF1730",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoHead"
+			]
+		},
+		{
+			"ShaderMapHash": "C23C43CAB45FD7D3E0DAD9C117A8891F464E74F1",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoHead"
+			]
+		},
+		{
+			"ShaderMapHash": "B03BE425FD40943B110642C34A41480508C099FB",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoHead"
+			]
+		},
+		{
+			"ShaderMapHash": "826E1BED7924A689DFA73E5F00FD7B77C04A2220",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoInner"
+			]
+		},
+		{
+			"ShaderMapHash": "4ADA066085E5A4693D9525B730482402F5789F51",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_TorsoInner"
+			]
+		},
+		{
+			"ShaderMapHash": "347FD09B888A068070B74DDC5E33EF712B7DFC3B",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Weapons"
+			]
+		},
+		{
+			"ShaderMapHash": "F75E0C9A0A3980FF54C214F6B0C42014A3850E50",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Weapons"
+			]
+		},
+		{
+			"ShaderMapHash": "283BFD35617BA17DEB42F1BA67005F9EA1A8A742",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Skins/Tier2/ShadowOps/Materials/M_TBSO_Weapons"
+			]
+		},
+		{
+			"ShaderMapHash": "FCAA6A833807141C0357AD1F54616C8A43616317",
+			"Assets": [
+				"/Game/ThirdPersonBP_migrated/Maps/Game"
+			]
+		},
+		{
+			"ShaderMapHash": "3A768E25391B953EA083A76CB86390ADC4B07A43",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/Instances/MI_Downy_Oak"
+			]
+		},
+		{
+			"ShaderMapHash": "FC43B790C573EA5DB66CF7559B53D7C986BC7478",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/Instances/MI_Green_Hellebore"
+			]
+		},
+		{
+			"ShaderMapHash": "15A501714CD47558267FB4B83DAF4D363D6032E2",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/Instances/MI_Male_Fern"
+			]
+		},
+		{
+			"ShaderMapHash": "2084C1DD2A80D2C6069ACA9897182144ED68ECED",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/Instances/MI_I_Oak_Tree_a",
+				"/Game/MAEOakForest/Materials/Impostor/MA_Impostor"
+			]
+		},
+		{
+			"ShaderMapHash": "17DD5ED8193C2355AEC98A4C65A966DCF1144A2A",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/Instances/MI_Oak_Tree_e_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "05EC634E284A7A19B0CBFCFE405DD96D345982EC",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/Instances/MI_Oak_Tree_f_Bark_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "8C2A7D1A510577BCF671AAD4AEDE5BA5627CB9F3",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/Instances/MI_Oak_Tree_f_Leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "3E0A0B622DAD9D444C02ED5F847C3D464EE7F3F8",
+			"Assets": [
+				"/Game/MAEOakForest/Materials/Environments/Instances/MI_Oak_Tree_f_Trunk"
+			]
+		},
+		{
+			"ShaderMapHash": "30A3C9A23FCB513B2659405A623F95136B2908B1",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "AF3FE45A03D826A1BBC7D53919CF02EFAC805AC0",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyelash/M_EyelashMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "E4B0EC9C6262A86199D68F77AC5888BDCB6E01FA",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "D8C1B35AD60C7F3E40D675F3FE698AA534327F59",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Mouth/Materials/M_Mouth_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "EDCB17510C50ED59A990E6F6572FBAF53FECA621",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "80E43399ECAF365F4BD28B271FB9BF6E2FD6A23F",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TearLine"
+			]
+		},
+		{
+			"ShaderMapHash": "281570C39357E01FA0AC4F58AEF32804425605F2",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_TwinBlast_EyeBlend"
+			]
+		},
+		{
+			"ShaderMapHash": "F93FEE0D9174DA1499FC8E4C3EF5A2BCE4FD8F72",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "BDD13AB12DACF1D3E9E2269FA4AE1F870BFFB8C2",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "FC9AD3C5912E1F2D00F658BFB5B8F5A2726830B4",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "2387C1744C485F8BC6E22A18F5FC71F8CDD25D2A",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Eyes/Materials/M_Eye_Occlusion"
+			]
+		},
+		{
+			"ShaderMapHash": "9B7C734CEEB37FFC219B5B25AEE1DB205A8EA6E3",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "DE89D465AF63A2B7E23669914D20651C3A10A0A5",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Arms"
+			]
+		},
+		{
+			"ShaderMapHash": "8887F21F4E1D8DF9EB0F347BDD39FC7AA6553587",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Coat"
+			]
+		},
+		{
+			"ShaderMapHash": "AF4C15302FFAB4ECA05B2D53E9DE131D4DDB99E0",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Coat"
+			]
+		},
+		{
+			"ShaderMapHash": "500B3C02D09EB165E789C0A0D5333B7AE6E7709E",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Head_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "3C49084C5DBDF093D02EC73BF142F443AF74D623",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Head_Shirt"
+			]
+		},
+		{
+			"ShaderMapHash": "D98DA03A0C23C50DAF962F7DF179E4CDC0966E7C",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "8D272BE907449E12C071478D2AEA3112EE2C7365",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_LowerBody"
+			]
+		},
+		{
+			"ShaderMapHash": "1797D665827C4137645CDD77D561D56B84FB7B88",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "EBE691D959503C23104D68C5F58CB440D52B1AF8",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "6FD3BC8DF6313BA50CE47C7F39B23B2E3F6A4E66",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_TwinBlast_Pistol"
+			]
+		},
+		{
+			"ShaderMapHash": "05C8D2697214988DAF23D9F18AA6193A84C88F44",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Hair/Materials/M_HairSheet_Master2",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_HairSheet_Master2_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "AA0004B4BA2E40F942D9EAF046F9BFE306BCCD0F",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Global/Hair/Materials/M_HairSheet_Master2",
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/M_HairSheet_Master2_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "8F7B00784D6BEFCD95C44622254A50DEEA8568F8",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/MI_TwinBlast_Hair_Bust_Eyebrow"
+			]
+		},
+		{
+			"ShaderMapHash": "31199262D19257AF2CB183CBB8E1E736BDEE1449",
+			"Assets": [
+				"/Game/ParagonTwinblast/Characters/Heroes/TwinBlast/Materials/MI_TwinBlast_Hair_Bust_Eyebrow"
+			]
+		}
+	]
+}
